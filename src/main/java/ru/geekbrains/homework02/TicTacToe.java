@@ -13,7 +13,7 @@ public class TicTacToe {
     private static final Scanner scn = new Scanner(System.in);
     private static final Random random = new Random();
 
-    private static char[][] field; //Двемерный массив хранит текущее состояние игрового поля
+    private static char[][] field; //Двумерный массив хранит текущее состояние игрового поля
 
     private static int fieldSizeX; // Размерность игрового поля
     private static int fieldSizeY; // Размерность игрового поля
